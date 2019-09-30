@@ -1,3 +1,1 @@
-# ignoramos los archivos autogenerados por python
-__pycache__/
-
+__pychache__/
